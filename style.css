@@ -1,0 +1,24 @@
+.item active{
+    width: 100%;
+    margin: 4% 10% 5% 10%;
+}
+.carousel-content{
+    width: 100%;
+    position: relative;
+    margin-top: -10%;
+    color: white;
+    font-family: 'STIX Two Text', serif;
+}
+marquee{
+    font-size: 20px;
+    color: mediumblue;
+} 
+.GDGSS{
+    height: 100px;
+}
+iframe{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 450px;
+}
